@@ -10,7 +10,7 @@ export const contactLinks = [
   { label: "Email", href: "mailto:samuellawrencebrooks@gmail.com" },
   { label: "Phone (US)", href: "tel:+18323358189" },
   { label: "Phone (UK)", href: "tel:+447771939292" },
-  { label: "CV/Resume", href: "/Samuel_Brooks_CV_FINAL.pdf" },
+  { label: "CV/Resume", href: "/cv.pdf" },
   { label: "GitHub", href: "https://github.com/slbrooks20" },
   { label: "UCL Email", href: "mailto:samuel.penaloza.25@ucl.ac.uk" },
 ];

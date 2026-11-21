@@ -16,6 +16,16 @@ export const metadata: Metadata = {
   title: "Samuel Brooks | Data Engineer",
   description:
     "Portfolio for Samuel Brooks, focused on data engineering, analytics systems, and reproducible pipelines.",
+  robots: {
+    index: false,
+    follow: false,
+    nocache: true,
+    googleBot: {
+      index: false,
+      follow: false,
+      noimageindex: true,
+    },
+  },
 };
 
 export default function RootLayout({
